@@ -1,0 +1,8 @@
+{
+  "name": "bot-auto-order-config",
+  "version": "1.0.0",
+  "description": "Bot Telegram Auto Order Config - GEN SSH STORE",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "node-telegram-bot-api": "^0.66.0" }
+}
